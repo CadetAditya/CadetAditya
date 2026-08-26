@@ -70,3 +70,11 @@ Java & Backend Development █████████████████
 Full-Stack Development     ███████████████
 AI / Machine Learning      ████████████
 Learning New Technologies  ████████████████████
+
+## 🤝 Let's Connect
+
+💻 GitHub: [@CadetAditya](https://github.com/CadetAditya)
+
+🧩 LeetCode: [My LeetCode Profile](https://leetcode.com/u/AaditySingh/)
+
+💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/aadityaksingh26)
