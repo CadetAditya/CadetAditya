@@ -62,16 +62,6 @@ My journey of solving DSA problems and improving my problem-solving skills using
 
 ---
 
-## 📊 My Focus
-
-DSA & Problem Solving      ████████████████████
-Java & Backend Development █████████████████
-Full-Stack Development     ███████████████
-AI / Machine Learning      ████████████
-Learning New Technologies  ████████████████████
-
-
-
 ### 🤝 Let's Connect
 
 💻 GitHub: [@CadetAditya](https://github.com/CadetAditya)
