@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Aditya Singh 👋
 
-<!--
-**CadetAditya/CadetAditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | DSA Enthusiast | Full-Stack Developer | AI/ML Specialization
 
-Here are some ideas to get you started:
+I'm a Computer Science student who enjoys **solving DSA problems, building projects from scratch, and learning new technologies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Solved **150+ problems on LeetCode**
+- 💻 Currently building a **full-stack project** with both frontend and backend
+- 🤖 Specializing in **Artificial Intelligence & Machine Learning**
+- 🌱 Currently learning **Java, Spring Boot, JPA & Backend Development**
+- 🚀 Soon starting an **AI/ML project**
+- 🔍 Always exploring new technologies and working on new ideas
+
+---
+
+## 🛠️ Technologies I'm Working With
+
+### Languages
+- Java
+- C++
+- C
+- Python
+- HTML & CSS
+
+### Backend & Database
+- Spring Boot
+- PostgreSQL
+
+### AI / ML
+- Machine Learning
+- Python
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jira
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 LPU Social
+A full-stack college event platform where students and faculty can create, discover and manage events.
+
+**Tech:** Java • Spring Boot • PostgreSQL • JavaScript
+
+### 🤖 Opti-Reach
+An AI-powered rural healthcare optimization project focused on improving healthcare accessibility.
+
+**Tech:** Python • Machine Learning
+
+### 🩸 Smart Blood Donation Network
+A platform designed to connect blood donors with people in need based on blood group and availability.
+
+**Tech:** Java
+
+### 🧩 LeetCode
+My journey of solving DSA problems and improving my problem-solving skills using Java.
+
+**150+ Problems Solved**
+
+---
+
+## 📊 My Focus
+
+```text
+DSA & Problem Solving      ████████████████████
+Java & Backend Development █████████████████
+Full-Stack Development     ███████████████
+AI / Machine Learning      ████████████
+Learning New Technologies  ████████████████████
