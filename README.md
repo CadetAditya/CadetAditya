@@ -1,4 +1,4 @@
-# Hi, I'm Aditya Singh 👋
+# Hi, I'm Aditya Kumar Singh 👋
 
 ### CSE Student | DSA Enthusiast | Full-Stack Developer | AI/ML Specialization
 
@@ -15,7 +15,7 @@ I'm a Computer Science student who enjoys **solving DSA problems, building proje
 ## 🛠️ Technologies I'm Working With
 
 ### Languages
-- Java | C++ | C |Python | HTML & CSS
+- Java | C++ | C | Python | HTML & CSS
 
 ### Backend & Database
 - Spring Boot | PostgreSQL
