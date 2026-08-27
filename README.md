@@ -8,7 +8,6 @@ I'm a Computer Science student who enjoys **solving DSA problems, building proje
 - 💻 Currently building a **full-stack project** with both frontend and backend
 - 🤖 Specializing in **Artificial Intelligence & Machine Learning**
 - 🌱 Currently learning **Java, Spring Boot, JPA & Backend Development**
-- 🚀 Soon starting an **AI/ML project**
 - 🔍 Always exploring new technologies and working on new ideas
 
 ---
@@ -16,25 +15,16 @@ I'm a Computer Science student who enjoys **solving DSA problems, building proje
 ## 🛠️ Technologies I'm Working With
 
 ### Languages
-- Java
-- C++
-- C
-- Python
-- HTML & CSS
+- Java | C++ | C |Python | HTML & CSS
 
 ### Backend & Database
-- Spring Boot
-- PostgreSQL
+- Spring Boot | PostgreSQL
 
 ### AI / ML
-- Machine Learning
-- Python
+- Machine Learning | Python
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Jira
+- Git | GitHub | VS Code | Jira
 
 ---
 
@@ -64,8 +54,8 @@ My journey of solving DSA problems and improving my problem-solving skills using
 
 ### 🤝 Let's Connect
 
-💻 GitHub: [@CadetAditya](https://github.com/CadetAditya)
+💻 [GitHub](https://github.com/CadetAditya)
 
-🧩 LeetCode: [My LeetCode Profile](https://leetcode.com/u/AaditySingh/)
+🧩 [LeetCode](https://leetcode.com/u/AaditySingh/)
 
-💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/aadityaksingh26)
+💼 [LinkedIn](www.linkedin.com/in/aadityaksingh26)
