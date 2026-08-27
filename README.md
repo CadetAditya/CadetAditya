@@ -7,7 +7,7 @@ I'm a Computer Science student who enjoys **solving DSA problems, building proje
 - 🧠 Solved **150+ problems on LeetCode**
 - 💻 Currently building a **full-stack project** with both frontend and backend
 - 🤖 Specializing in **Artificial Intelligence & Machine Learning**
-- 🌱 Currently learning **Java, Spring Boot, JPA & Backend Development**
+- 🌱 Currently learning **Spring Boot, JPA & Backend Development**
 - 🔍 Always exploring new technologies and working on new ideas
 
 ---
@@ -44,12 +44,6 @@ An AI-powered rural healthcare optimization project focused on improving healthc
 A platform designed to connect blood donors with people in need based on blood group and availability.
 
 **Tech:** Java
-
-### 🧩 LeetCode
-My journey of solving DSA problems and improving my problem-solving skills using Java.
-
-**150+ Problems Solved**
-
 ---
 
 ### 🤝 Let's Connect
