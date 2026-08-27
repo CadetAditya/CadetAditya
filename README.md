@@ -44,6 +44,7 @@ An AI-powered rural healthcare optimization project focused on improving healthc
 A platform designed to connect blood donors with people in need based on blood group and availability.
 
 **Tech:** Java
+
 ---
 
 ### 🤝 Let's Connect
