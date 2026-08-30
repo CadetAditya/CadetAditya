@@ -1,11 +1,10 @@
 # Hi, I'm Aditya Kumar Singh 👋
 
-### CSE Student | DSA Enthusiast | Full-Stack Developer | AI/ML Specialization
+### CSE Student | DSA Enthusiast | AI/ML Specialization
 
 I'm a Computer Science student who enjoys **solving DSA problems, building projects from scratch, and learning new technologies**.
 
 - 🧠 Solved **150+ problems on LeetCode**
-- 💻 Currently building a **full-stack project** with both frontend and backend
 - 🤖 Specializing in **Artificial Intelligence & Machine Learning**
 - 🌱 Currently learning **Spring Boot, JPA & Backend Development**
 - 🔍 Always exploring new technologies and working on new ideas
